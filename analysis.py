@@ -1,10 +1,4 @@
-#----------------------------------------------------
-# ASSIGNMENT 1
-# Date of Submission: 16th February, 2024
-#
-# Author: Rayan Ahmed
-# Collaborators/references:
-#----------------------------------------------------
+
 
 from datetime import datetime
 
@@ -187,4 +181,5 @@ def main():
     task_6(sales_datas, products_datas, returns_datas)
     
 if __name__ == '__main__':
+
     main()
